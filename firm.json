@@ -1,0 +1,26 @@
+{
+    "Management, professional, and related occupations": {
+        "Management, business, and financial operations occupations" : 1,
+        "Professional and related occupations" : 1
+    },
+    "Service occupations": {
+        "Healthcare support occupations" : 1,
+        "Protective service occupations" : 1,
+        "Food preparation and serving related occupations" : 1,
+        "Building and grounds cleaning and maintenance occupations" : 1,
+        "Personal care and service occupations" : 1
+    },
+    "Sales and office occupations": {
+        "Sales and related occupations" : 1,
+        "Office and administrative support occupations" : 1
+    },
+    "Natural resources, construction, and maintenance occupations": {
+        "Farming, fishing, and forestry occupations" : 1,
+        "Construction and extraction occupations" : 1,
+        "Installation, maintenance, and repair occupations" : 1
+    },
+    "Production, transportation, and material moving occupations": {
+        "Production occupations": 1,
+        "Transportation and material moving occupations": 1
+    }
+}
